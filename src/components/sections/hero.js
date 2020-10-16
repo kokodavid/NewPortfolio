@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer based in Nairobi, specializing in building (and occasionally
-      designing) exceptional Mobile Application, applications, and everything in between.
+      designing) exceptional Mobile Applications and everything in between.
     </p>
   );
   const five = (

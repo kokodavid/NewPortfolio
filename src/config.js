@@ -10,10 +10,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/davidmochoge/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+    ,
   ],
 
   navLinks: [
