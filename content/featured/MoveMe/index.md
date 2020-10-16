@@ -1,15 +1,13 @@
 ---
 date: '2'
 title: 'Move Me'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+cover: './github.png'
+github: 'https://github.com/LinusMuema/Move-Me'
 tech:
-  - React
+  - Kotlin
   - Node.js
-  - Express
-  - Spotify Web API
+  - Firebase
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+I was part of a team that worked on Move Me application , an Application used to help in relocation in both bulk goods and small goods because Users get to selct mode of relocation.
