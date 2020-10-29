@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Foodie App'
-cover: './foodieapp.png'
+cover: './foodieapp.jpg'
 github: 'https://github.com/kokodavid/Foodie'
 external: 'https://play.google.com/store/apps/details?id=com.koko.foodie'
 tech:
