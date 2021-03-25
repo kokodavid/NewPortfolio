@@ -139,7 +139,7 @@ const About = () => {
     'Dart',
     'Flutter',
     'Firebase',
-    'Typescript',
+    'Android',
     'SQlite',
   ];
 

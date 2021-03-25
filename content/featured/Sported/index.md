@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Sported is an Application that Helps Users to have easy access to Sports Facilities and Also easy Booking. Users are able to make Payments Via MPesa ehich is a Mobile Money Money Transfer Service .
+Sported is an Application that Helps Users to have easy access to Sports Facilities and Also easy Booking. Users are able to make Payments Via MPesa Which is a Mobile Money Money Transfer Service .
