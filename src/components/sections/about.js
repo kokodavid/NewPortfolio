@@ -116,7 +116,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "pp.jpeg" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -132,7 +132,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'Java', 'Dart', 'Flutter', 'Firebase','Typescript','SQlite'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'HTML & (S)CSS',
+    'Java',
+    'Dart',
+    'Flutter',
+    'Firebase',
+    'Typescript',
+    'SQlite',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,10 +153,11 @@ const About = () => {
             <p>Hello! I'm David Mochoge, a software engineer based in Nairobi.</p>
 
             <p>
-            I am a passionate and self-driven Mobile developer. Possessing well developed Mobile  Applications. I have a customer-focused approach to work and focused on the completion of projects and always taking on new challenges.
+              I am a passionate and self-driven Mobile developer. Possessing well developed Mobile
+              Applications. I have a customer-focused approach to work and focused on the completion
+              of projects and always taking on new challenges.
             </p>
 
-            
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 

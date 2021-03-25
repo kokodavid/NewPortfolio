@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Mobile Developer'
-company: 'Ignite Binary Ltd'
+title: ' Mobile Developer'
+company: 'Ignite Binary'
 location: 'Nairobi ,Kenya'
-range: 'January 2020 - Present'
+range: 'January 2020 - December 2020'
 url: 'https://ignitebinary.com/'
 ---
 
