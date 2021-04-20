@@ -134,7 +134,7 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'HTML & (S)CSS',
+    'Kotlin',
     'Java',
     'Dart',
     'Flutter',
